@@ -1,0 +1,6 @@
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe.config
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.pdb
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.csprojResolveAssemblyReference.cache
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.exe
+c:\users\redin\documents\visual studio 2015\Projects\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.pdb
